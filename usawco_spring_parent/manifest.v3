@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="enabled">yes</value>
+  <value name="system_package">no</value>
+  <value name="version">1.0</value>
+  <record name="startup_services" javaclass="com.wm.util.Values">
+    <null name="usawco_parent.spring.admin:pkgStartup"/>
+  </record>
+  <record name="shutdown_services" javaclass="com.wm.util.Values">
+    <null name="usawco_parent.spring.admin:pkgShutdown"/>
+  </record>
+  <null name="replication_services"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="usawco_spring_grandparent">*.*</value>
+  </record>
+  <value name="listACL">Default</value>
+  <value name="webappLoad">yes</value>
+  <value name="reloadWithDependentPackage">yes</value>
+  <value name="build"></value>
+  <value name="description"></value>
+  <value name="created_date">21-12-2023 05:28:55 EST</value>
+  <null name="extendedProperties"/>
+  <null name="target_server_version"/>
+  <value name="name">usawco_spring_parent</value>
+  <value name="time">2024-04-18 14:59:40 EDT</value>
+  <value name="jvm_version">1.8</value>
+  <value name="publisher">i110</value>
+  <value name="patch_nums"></value>
+</Values>

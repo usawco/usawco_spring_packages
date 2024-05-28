@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">usawco_spring_grandparent</value>
+  <value name="version">1.0</value>
+  <value name="build"></value>
+  <value name="patch_nums"></value>
+  <value name="description"></value>
+  <value name="target_pkg_version">1.0</value>
+  <value name="jvm_version">1.8.0_352</value>
+  <value name="source_server_version">10.7.0.0</value>
+  <value name="target_server_version">10.7.0.0</value>
+  <value name="time">2024-04-18 15:43:26 EDT</value>
+  <value name="type">full</value>
+  <null name="retainPatchHistory"/>
+  <value name="target_pkg_name">usawco_spring_grandparent</value>
+  <value name="publisher">i107</value>
+  <array name="files_to_delete" type="value" depth="1">
+  </array>
+</Values>
