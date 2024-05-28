@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="shared"></value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.wm.app.b2b.server.JDBCConnectionManager</value>
+    <value>com.wm.app.b2b.server.ThreadManager</value>
+    <value>com.wm.app.b2b.server.User</value>
+    <value>com.wm.app.b2b.server.UserManager</value>
+    <value>com.wm.app.b2b.server.stats.Statistics</value>
+    <value>com.wm.app.b2b.server.SessionManager</value>
+    <value>com.wm.util.JournalLogger</value>
+    <value>java.sql.Connection</value>
+    <value>java.util.ArrayList</value>
+    <value>java.util.List</value>
+    <value>java.util.concurrent.atomic.AtomicInteger</value>
+    <value>java.util.regex.Matcher</value>
+    <value>java.util.regex.Pattern</value>
+    <value>org.apache.commons.lang3.StringUtils</value>
+    <value>com.softwareag.util.IDataMap</value>
+    <value>com.wm.app.b2b.server.Session</value>
+  </array>
+</Values>
